@@ -1,8 +1,4 @@
-// src/pages/LoginPage.jsx
-import React from 'react';
-
-function LoginPage() {
-  // We'll add state and Firebase login logic here later
+import React from 'reafunction LoginPage() // We'll add state and Firebase login logic here later
   return (
     <div>
       <h2>Login / Sign Up</h2>
