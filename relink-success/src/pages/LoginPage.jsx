@@ -13,10 +13,4 @@ import React from 'reafunction LoginPage() // We'll add state and Firebase login
           <label htmlFor="password">Password:</label>
           <input type="password" id="password" name="password" />
         </div>
-        <button type="submit" style={{ marginTop: '10px' }}>Login</button>
-      </form>
-    </div>
-  );
-}
-
-export default LoginPage;
+        <button type="submit" style={{ marginTop: '10px' }}>Login    </div>  )
